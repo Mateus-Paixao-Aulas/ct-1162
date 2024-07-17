@@ -1,0 +1,39 @@
+/* seletor css */
+/* tag-name */
+body {
+    /* regra css; */
+    margin: 0;
+    background-color: blueviolet;
+}
+
+p, h2 {
+    color: white;
+}
+
+span {
+    color: black;
+}
+
+/* class */
+.texto-simples {
+    color: yellow;
+    font-size: 11px;
+}
+
+.botao {
+    background-color: chocolate;
+    border: none;
+}
+
+.botao-secundario {
+    background-color: brown;
+    border-radius: 5px;
+}
+
+/* id */
+#outro-paragrafo {
+    color: red;
+}
+
+/* class, id, name, 
+ lição de casa: root, *, @, pseudo, data/atributo */
