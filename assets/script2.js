@@ -62,5 +62,12 @@ function somar(n1, n2) {
 // const resultado = ehMaiorDeIdade();
 // console.log(resultado);
 
-const resultado = somar(10, 5);
+function somar1eOutroNumero(numeroParaSomar){
+    return 1 + numeroParaSomar;
+}
+
+const resultado = somar(10, 7);
 console.log(resultado);
+
+const resultado2 = somar1eOutroNumero(10);
+console.log(resultado2);
